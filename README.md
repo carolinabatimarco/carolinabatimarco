@@ -2,7 +2,7 @@
 
 **`Desenvolvimento de sistemas`**
 
-Me chamo Carolina Batimarco, tenho 17 anos e atualmente curso Desenvolvimento de Sistemas. Estou aprendendo tecnologias como HTML, CSS, JavaScript, banco de dados, Front-end, Back-end e desenvolvimento Mobile com App Studio. Tenho interesse na área de programação e desenvolvimento web, buscando sempre ampliar meus conhecimentos. Meu objetivo profissional é me tornar uma desenvolvedora de software qualificada e construir uma carreira de sucesso na área da tecnologia.
+Me chamo Carolina Batimarco, tenho 17 anos e atualmente curso Desenvolvimento de Sistemas. Estou aprendendo tecnologias como HTML, CSS, JavaScript,PHP, banco de dados, Front-end, Back-end e desenvolvimento Mobile com App Studio. Tenho interesse na área de programação e desenvolvimento web, buscando sempre ampliar meus conhecimentos. Meu objetivo profissional é me tornar uma desenvolvedora de software qualificada e construir uma carreira de sucesso na área da tecnologia.
 
 <p align="left">
     <img src="https://img.shields.io/badge/🎓%20ESTUDANTE%20%7C%20DS-236AD3?style=for-the-badge" />
