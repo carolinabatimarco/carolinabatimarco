@@ -67,15 +67,3 @@ Me chamo Carolina Batimarco, tenho 17 anos e atualmente curso Desenvolvimento de
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
